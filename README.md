@@ -47,7 +47,7 @@ streamlit run app.py
 ## 🌐 Live Demo
 
 Access the deployed app here:  
-**[logistic-regression25.streamlit.app]**
+**logistic-regression25.streamlit.app**
 
 ## 📊 Input Features Used
 
